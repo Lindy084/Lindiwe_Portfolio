@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-I’m Lindy Ndlazi, a curious and motivated professional with a background in **Human Resource Management and System Development (IT Learnership). I’m currently an AI Intern at CAPACITI, where I explore practical applications of AI, NLP, and Web technologies. My portfolio showcases beginner-to-intermediate projects that blend **problem-solving**, **user accessibility**, and **technical skills**.
+I’m Lindy Ndlazi, a curious and motivated professional with a background in Human Resource Management and System Development (IT Learnership). I’m currently an AI Intern at CAPACITI, where I explore practical applications of AI, NLP, and Web technologies. My portfolio showcases beginner-to-intermediate projects that blend **problem-solving, user accessibility, and technical skills.
 
 ---
 
@@ -35,6 +35,8 @@ Focus Areas: AI Chatbots, Accessibility, NLP, Frontend Apps, Resume Optimization
  I blend technical development with human-centered design.
  My projects prioritize accessibility,learning support, and job readiness.
  I’m passionate about using AI for good, and continuously improve through hands-on experience.
+ 
+ Click here for live app (https://lindiwe-portfolio.vercel.app/) 
 
 ---
 
