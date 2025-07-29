@@ -36,7 +36,12 @@ Focus Areas: AI Chatbots, Accessibility, NLP, Frontend Apps, Resume Optimization
  My projects prioritize accessibility,learning support, and job readiness.
  I’m passionate about using AI for good, and continuously improve through hands-on experience.
  
- Click here for live app (https://lindiwe-portfolio.vercel.app/) 
+
+ ## 🌐 My Portfolio
+ 
+ 
+🔗 [Visit My Portfolio Website](https://lindiwe-portfolio.vercel.app/)
+ 
 
 ---
 
