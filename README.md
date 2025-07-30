@@ -1,15 +1,13 @@
-## 🌐 Lindy Ndlazi's AI & Tech Portfolio
+## 🌐 Lindiwe Ndlazi's AI & Tech Portfolio
 
 🎓 Entry-Level AI Intern | System Developer | Human-Centered Technologist
 📍 South Africa | 💻 Passionate about solving real-world problems through technology
 
----
 
 ### 🧠 About Me
 
-I’m Lindy Ndlazi, a curious and motivated professional with a background in Human Resource Management and System Development (IT Learnership). I’m currently an AI Intern at CAPACITI, where I explore practical applications of AI, NLP, and Web technologies. My portfolio showcases beginner-to-intermediate projects that blend **problem-solving, user accessibility, and technical skills.
+I’m Lindiwe Ndlazi, a curious and motivated professional with a background in Human Resource Management and System Development (IT Learnership). I’m currently an AI Intern at CAPACITI, where I explore practical applications of AI, NLP, and Web technologies. My portfolio showcases beginner-to-intermediate projects that blend **problem-solving, user accessibility, and technical skills.
 
----
 
 ### 🚀 Featured Projects
 
@@ -51,5 +49,6 @@ Let’s connect:
 
 * 🌐 [LinkedIn] (https://www.linkedin.com/in/ndlazi-lindiwe-76baa6229) 
 * 📧 Email: (ndlazilindy22@gmail.com)
+* contact: (0617150448)
 
 
